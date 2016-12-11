@@ -1,0 +1,15 @@
+{
+  "name": "school-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A color syntax scheme based off of your school days.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/mmhhhmm/school-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
